@@ -1,5 +1,4 @@
 hello Git!!!!  
-<<<<<<< HEAD
 hello Git!!!!  
 hello Git!!!!
 hello Git!!!!
